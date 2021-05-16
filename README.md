@@ -18,8 +18,7 @@ declaration directly before a method's name:
 ```js
 class StaticMethod {
 	static methodName() {
-		console.log('My method is static!');
-	}
+  	}
 }
 ```
 
